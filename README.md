@@ -4,9 +4,8 @@
 &#x20; \<strong>Understanding Human Sentiment Through Recurrent Neural Networks\</strong>
 \</p>
 
-\<p align="center">   A PyTorch-based NLP project exploring sequence modeling and sentiment classification through Vanilla RNN and LSTM architectures. \</p>
+  A PyTorch-based NLP project exploring sequence modeling and sentiment classification through Vanilla RNN and LSTM architectures.
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.x-blue?logo=python](https://img.shields.io/badge/Python-3.x-blue?logo=python)" />   \<img src="[https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch)" />   \<img src="[https://img.shields.io/badge/Task-Sentiment%20Analysis-purple](https://img.shields.io/badge/Task-Sentiment%20Analysis-purple)" />   \<img src="[https://img.shields.io/badge/Dataset-IMDB-orange](https://img.shields.io/badge/Dataset-IMDB-orange)" />   \<img src="[https://img.shields.io/badge/Models-RNN%20%7C%20LSTM-green](https://img.shields.io/badge/Models-RNN%20%7C%20LSTM-green)" /> \</p>
 
 ---
 
