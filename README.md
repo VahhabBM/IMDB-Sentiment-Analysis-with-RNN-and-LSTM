@@ -1,10 +1,6 @@
 # IMDB Sentiment Analysis with RNN and LSTM
 
-\<p align="center">
-&#x20; \<strong>Understanding Human Sentiment Through Recurrent Neural Networks\</strong>
-\</p>
 
-  A PyTorch-based NLP project exploring sequence modeling and sentiment classification through Vanilla RNN and LSTM architectures.
 
 
 ---
