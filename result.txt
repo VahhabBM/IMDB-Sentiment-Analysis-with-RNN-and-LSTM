@@ -1,0 +1,92 @@
+Using device: cuda
+reading texts...
+creating vocab...
+creating train and test...
+
+==================== Training Vanilla RNN ====================
+
+Epoch 1/10
+Train Loss: 0.7006 | Train Acc: 53.17%
+Val Loss: 0.6853 | Val Acc: 54.22%
+
+Epoch 2/10
+Train Loss: 0.6806 | Train Acc: 56.45%
+Val Loss: 0.6971 | Val Acc: 52.46%
+
+Epoch 3/10
+Train Loss: 0.6897 | Train Acc: 54.64%
+Val Loss: 0.6964 | Val Acc: 50.05%
+
+Epoch 4/10
+Train Loss: 0.7068 | Train Acc: 49.94%
+Val Loss: 0.6953 | Val Acc: 49.90%
+
+Epoch 5/10
+Train Loss: 0.7042 | Train Acc: 49.88%
+Val Loss: 0.7042 | Val Acc: 51.34%
+
+Epoch 6/10
+Train Loss: 0.7025 | Train Acc: 51.02%
+Val Loss: 0.7058 | Val Acc: 50.44%
+
+Epoch 7/10
+Train Loss: 0.6996 | Train Acc: 51.20%
+Val Loss: 0.6938 | Val Acc: 52.85%
+
+Epoch 8/10
+Train Loss: 0.6964 | Train Acc: 53.66%
+Val Loss: 0.6803 | Val Acc: 56.50%
+
+Epoch 9/10
+Train Loss: 0.6751 | Train Acc: 58.52%
+Val Loss: 0.6574 | Val Acc: 62.09%
+
+Epoch 10/10
+Train Loss: 0.6470 | Train Acc: 63.48%
+Val Loss: 0.6444 | Val Acc: 64.45%
+
+==================== Training LSTM ====================
+
+Epoch 1/10
+Train Loss: 0.6530 | Train Acc: 61.96%
+Val Loss: 0.6113 | Val Acc: 66.77%
+
+Epoch 2/10
+Train Loss: 0.5664 | Train Acc: 71.74%
+Val Loss: 0.5059 | Val Acc: 76.96%
+
+Epoch 3/10
+Train Loss: 0.4510 | Train Acc: 80.02%
+Val Loss: 0.4330 | Val Acc: 81.03%
+
+Epoch 4/10
+Train Loss: 0.3682 | Train Acc: 84.86%
+Val Loss: 0.4032 | Val Acc: 83.33%
+
+Epoch 5/10
+Train Loss: 0.2970 | Train Acc: 88.61%
+Val Loss: 0.3653 | Val Acc: 84.38%
+
+Epoch 6/10
+Train Loss: 0.2317 | Train Acc: 91.38%
+Val Loss: 0.3517 | Val Acc: 85.36%
+
+Epoch 7/10
+Train Loss: 0.1870 | Train Acc: 93.28%
+Val Loss: 0.4037 | Val Acc: 86.16%
+
+Epoch 8/10
+Train Loss: 0.1445 | Train Acc: 94.92%
+Val Loss: 0.3930 | Val Acc: 86.28%
+
+Epoch 9/10
+Train Loss: 0.1067 | Train Acc: 96.43%
+Val Loss: 0.4463 | Val Acc: 86.72%
+
+Epoch 10/10
+Train Loss: 0.0862 | Train Acc: 97.17%
+Val Loss: 0.4498 | Val Acc: 85.70%
+
+#################### Final Comparison ####################
+Vanilla RNN Best Val Accuracy: 64.45%
+LSTM Best Val Accuracy: 86.72%
