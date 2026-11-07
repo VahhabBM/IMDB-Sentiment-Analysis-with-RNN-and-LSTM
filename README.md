@@ -3,7 +3,6 @@
 
 
 
----
 
 ## 🎬 Overview
 
@@ -318,14 +317,7 @@ The script automatically selects CUDA when available, loads the dataset, trains 
 
 **Mohammadmehdi Kazemi**
 
----
 
-## 📖 References
-
-- [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
-- [IMDB Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
-- [Long Short-Term Memory](https://www.bioinf.jku.at/publications/older/2604.pdf)
-- [Recurrent Neural Networks](https://en.wikipedia.org/wiki/Recurrent_neural_network)
 
 ---
 
